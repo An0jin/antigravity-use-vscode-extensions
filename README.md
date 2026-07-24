@@ -6,7 +6,7 @@
 * 윈도우
   * 나중에 올릴 예정
 ``` json
-extensionsGallery": {
+"extensionsGallery": {
 		"serviceUrl": "https://marketplace.visualstudio.com/_apis/public/gallery",
 		"cacheUrl": "https://vscode.blob.core.windows.net/gallery/index",
 		"itemUrl": "https://marketplace.visualstudio.com/items",
