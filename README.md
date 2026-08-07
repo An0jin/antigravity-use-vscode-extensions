@@ -4,7 +4,7 @@
 * 리눅스(debian 기준)
   * /opt/Antigravity IDE/resources/app/product.json
 * 윈도우
-  * C:\Users\anyou\AppData\Local\Programs\Antigravity IDE\resources\app\product.json
+  * C:\Users(사용자)\사용자명\AppData\Local\Programs\Antigravity IDE\resources\app\product.json
 ``` json
 "extensionsGallery": {
 		"serviceUrl": "https://marketplace.visualstudio.com/_apis/public/gallery",
